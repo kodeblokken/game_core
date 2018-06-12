@@ -43,7 +43,7 @@ or you will receive comments on what is lacking,
 etc.
 
 The programming language the code will be written in
-is C++ with the primary framework being **SDL.** Code 
+is C++17 with the primary framework being **SDL.** Code 
 should also be documented properly so that others
 may get a clear indication of what your code is doing
 without needing to study every implementation of every
