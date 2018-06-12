@@ -49,6 +49,8 @@ may get a clear indication of what your code is doing
 without needing to study every implementation of every
 function. All code and comments must be written in English.
 
+People use different IDEs and operating systems which can generate files local to these systems. If you want git to handle these files for you, just put them or their file extensions into the .gitignore file and git will ignore them. 
+
 ```
 /** 
  *  Returns the sum of x and y.
